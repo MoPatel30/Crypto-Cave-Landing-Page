@@ -26,6 +26,7 @@ body {
   position: relative; 
   top: 150px;
   height: 275px;
+  z-index: -1;
   
 }
 
@@ -34,6 +35,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 250px;
+
 
 }
 

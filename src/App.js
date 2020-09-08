@@ -31,7 +31,7 @@ export class Join extends React.Component{
     return(
       <div>
        
-        <a href = "https://matrixesports.typeform.com/to/qhbQBdNq">
+        <a href = "https://github.com/MoPatel30/Techunity">
           <button className = "button1">Join Now</button>
         </a>
 
