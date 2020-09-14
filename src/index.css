@@ -25,7 +25,7 @@ body {
 
   position: relative; 
   top: 150px;
-  height: 275px;
+  height: 300px;
   z-index: -1;
   
 }
@@ -43,7 +43,14 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 100px;
+  margin-top: 20%;
+
+}
+
+#sb{
+  position: fixed;
+  top: 20px;
+  left: 2%;
 
 }
 
@@ -73,7 +80,7 @@ body {
 
 @media only screen and (min-width: 0px) and (max-width: 767px){   
   #root{
-    height: 100px;
+    height: 200px;
   }
 
   #join{
@@ -103,6 +110,56 @@ body {
 }
 
 
+  
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+  text-align:center;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+
+}
+
+.sidenav a:hover{
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+
+@media screen and (min-width: 0px) and (max-width: 767px) {
+  #sb{
+    top: 20px;
+    left: 5%;
+  }
+
+}
 
 
 /*

@@ -2,12 +2,18 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import {App, Join, Discord} from './App';
+
+import {SideBar, Stuff} from './sideBar';
 import * as serviceWorker from './serviceWorker';
 
 
 
 
 ReactDOM.render(<App />, document.getElementById('root'));
+
+ReactDOM.render(<SideBar />, document.getElementById('sb'));
+
+ReactDOM.render(<Stuff />, document.getElementById('stf'));
 //ReactDOM.render(<Join />, document.getElementById('join'));
 
 
