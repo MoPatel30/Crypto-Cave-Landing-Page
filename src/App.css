@@ -169,8 +169,8 @@ body{
 }
 
 
-
-.button1 {
+#button1 {
+  font-family: 'Source Code Pro', monospace;  
   background-color: whitesmoke;
   color: black;
   border: 3px solid black; /* Green */
@@ -178,13 +178,27 @@ body{
   border-radius: 10px;
 }
 
-.button1 {
+#button1 {
   transition-duration: 0.4s;
 }
 
-.button1:hover {
+#button1:hover {
+  font-size: 24px;
   background-color: grey; /* Green */
   color: white;
   border-radius: 24px;
 }
 
+
+
+
+@media only screen and (min-width: 0px) and (max-width: 767px){ 
+  #button1{
+    font-size: 12px;
+  }
+
+  #button1:hover{
+    font-size: 24px;
+  }
+
+}

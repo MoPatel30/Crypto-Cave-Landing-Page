@@ -39,6 +39,37 @@ body {
 
 }
 
+#typeform{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+
+}
+
+
+
+
+.button1 {
+  background-color: whitesmoke;
+  color: black;
+  border: 3px solid black; /* Green */
+  padding: 14px 40px;
+  border-radius: 10px;
+}
+
+.button1 {
+  transition-duration: 0.4s;
+}
+
+.button1:hover {
+  background-color: grey; /* Green */
+  color: white;
+  border-radius: 24px;
+}
+
+
+
 
 @media only screen and (min-width: 0px) and (max-width: 767px){   
   #root{
@@ -51,6 +82,15 @@ body {
     align-items: center;
     height: 400px;
     
+  }
+
+  #typeform{
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+   
   }
   /*
       position: relative;

@@ -1,6 +1,6 @@
-# Techunity
+# TechUnity
 
-Website: https://techunity-925d1.web.app/
+Website: https://techunity.dev/
 
 ![Main Page](src/img/landing.JPG)
 
@@ -13,7 +13,7 @@ We are a community of Chicago builders. We make things together.
 
 Are you a **hacker** in Chicago? Is it difficult to find a community of people who share your interests? Look no further – we are a community of young **builders**, **hackers**, and **makers** in the Chicago area. The club you wished you had. When you didn't have it. Wanna *meet* people like *yourself*? Wanna share *dank memes*? Wanna *build* cool shit? All from *Chicago*?
 
- Apply now: 
+ Apply now: https://techunity.dev/
 
 
 ## Creators

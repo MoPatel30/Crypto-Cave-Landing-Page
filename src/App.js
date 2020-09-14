@@ -7,7 +7,7 @@ export class App extends React.Component{
     return(
      <div>
    
-       <div id="parent">Welcome to Techunity<div id="border"></div></div>
+       <div id="parent">Welcome to TechUnity<div id="border"></div></div>
        <div id="parent"><a id = "main-statement">Your building journey awaits. </a><div id="border"></div></div>
        
       
@@ -17,6 +17,7 @@ export class App extends React.Component{
 }
 
 
+
 export class Join extends React.Component{
   constructor(){
     super()
@@ -24,8 +25,6 @@ export class Join extends React.Component{
       join: "not joined"
     }
   }
-
-  
 
   render(){
     return(
@@ -40,6 +39,8 @@ export class Join extends React.Component{
   }
 }
 
+
+
 export class Discord extends React.Component{
   render(){
     return(
@@ -47,4 +48,7 @@ export class Discord extends React.Component{
     )
   }
 }
+
+
+
 

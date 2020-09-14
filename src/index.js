@@ -8,7 +8,8 @@ import * as serviceWorker from './serviceWorker';
 
 
 ReactDOM.render(<App />, document.getElementById('root'));
-ReactDOM.render(<Join />, document.getElementById('join'));
+//ReactDOM.render(<Join />, document.getElementById('join'));
+
 
 //ReactDOM.render(<Discord />, document.getElementById('cord'));
 
