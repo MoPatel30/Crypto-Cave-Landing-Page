@@ -56,8 +56,13 @@ body{
   position: relative;
   left: 5%;
 
-  
+}
 
+#mission-text{
+  font-size: 1.5rem;
+  color: whitesmoke;
+  font-weight: 700;
+  line-height: 1cm;
 }
 
 #parent {
@@ -199,6 +204,14 @@ body{
 
   #button1:hover{
     font-size: 24px;
+  }
+
+  #mission-text{
+    font-size: 14px;
+    line-height: 0.85cm;
+    color: whitesmoke;
+    text-align: center;
+    font-weight: 700;
   }
 
 }

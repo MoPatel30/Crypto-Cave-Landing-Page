@@ -16,6 +16,16 @@ export class App extends React.Component{
   }
 }
 
+export class Mission extends React.Component{
+  render(){
+    return(
+      <div>
+        <p id = "mission-text">A community of young builders, hackers, and makers in Chicago. The club you wished you had – when you didn't have it. Egos left at the door. Zero tolerance for negativity. And one goal in mind: <u>build</u>, not tear down.</p>
+      </div>
+    )
+  }
+}
+
 
 
 export class Join extends React.Component{
