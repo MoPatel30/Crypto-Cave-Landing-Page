@@ -7,13 +7,12 @@ Website: https://techunity.dev/
 
 ## About
 
-We are a community of young builders, hackers, and makers in the Chicago area. The club you wished you had.
 
-We are a community of Chicago builders. We make things together. 
+A community of young builders, hackers, and makers in Chicago. The club you wished you had – when you didn't have it.
+Egos left at the door. Zero tolerance for negativity. And one goal in mind: build, not tear down.
 
-Are you a **hacker** in Chicago? Is it difficult to find a community of people who share your interests? Look no further – we are a community of young **builders**, **hackers**, and **makers** in the Chicago area. The club you wished you had. When you didn't have it. Wanna *meet* people like *yourself*? Wanna share *dank memes*? Wanna *build* cool shit? All from *Chicago*?
 
- Apply now: https://techunity.dev/
+Apply now: https://techunity.dev/
 
 
 ## Creators
