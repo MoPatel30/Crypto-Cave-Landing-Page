@@ -11,7 +11,9 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
-ReactDOM.render(<Mission />, document.getElementById('mission'));
+
+//mission statement centered in middle of screen
+//ReactDOM.render(<Mission />, document.getElementById('mission'));
 
 ReactDOM.render(<SideBar />, document.getElementById('sb'));
 

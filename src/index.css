@@ -60,7 +60,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 05%;
+  margin-top: 17%; /* 5% with mission */
 
 }
 
@@ -114,7 +114,7 @@ body {
   }
 
   #typeform{
-    margin-top: -105px;
+    margin-top: 150px; /* -105 with mission*/
     position: relative;
     
     display: flex;
@@ -139,6 +139,13 @@ body {
   */
 
 
+}
+
+/* iphone se smallest ones*/
+@media only screen and (min-width: 317px) and (max-width: 323px){  
+  #typeform{
+    margin-top: 75px;
+  }
 }
 
 
