@@ -10,8 +10,7 @@ Website: https://techunity.dev/
 ## About
 
 
-A community of young builders, hackers, and makers in Chicago. The club you wished you had – when you didn't have it.
-Egos left at the door. Zero tolerance for negativity. And one goal in mind: build, not tear down.
+A growing community for younger builders, engineers, researchers, and investors. Listen to the latest crypto-conversations and always be up to date. See what passionate builders are up to these days. Learn from "Crypto Talks" featuring conversations with industry professionals and experienced individuals. 
 
 
 Apply now: https://techunity.dev/

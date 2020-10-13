@@ -7,8 +7,8 @@ export class App extends React.Component{
     return(
      <div>
    
-       <div id="parent">Welcome to Cryptopia<div id="border"></div></div>
-       <div id="parent"><a id = "main-statement">Quality conversations await!</a><div id="border"></div></div>
+       <div id="parent">Welcome to the Crypto Cave<div id="border"></div></div>
+       <div id="parent"><a id = "main-statement">Quality conversations await.</a><div id="border"></div></div>
        
       
      </div>
@@ -20,7 +20,7 @@ export class Mission extends React.Component{
   render(){
     return(
       <div>
-        <p id = "mission-text">A community of  <em>young builders</em>, <em>hackers</em>, and <em>makers</em> in Chicago. The club you wished you had – when you didn't have it. Egos left at the door. Zero tolerance for negativity. And one goal in mind: <u>build</u>, not tear down.</p>
+        <p id = "mission-text">A community of <em>young builders</em>, <em>hackers</em>, and <em>makers</em> in Chicago. The club you wished you had – when you didn't have it. Egos left at the door. Zero tolerance for negativity. And one goal in mind: <u>build</u>, not tear down.</p>
       </div>
     )
   }

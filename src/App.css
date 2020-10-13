@@ -54,7 +54,7 @@ body{
   font-weight: 100;
   color: whitesmoke;
   position: relative;
-  left: 7%;
+  left: 20%;
 
 }
 
@@ -73,7 +73,7 @@ body{
   font-size: 3.5rem;
   color: rgba(255,255,255,.70);
   position: relative;
-  left: 12%;
+  left: 0%;
   top: -100px;
 }
 
@@ -116,12 +116,13 @@ body{
     font-size: 6px;
   }
 
+  
     
   #parent {
     white-space: nowrap;
     overflow: hidden;
     font-family: 'Source Code Pro', monospace;  
-    font-size: 1.5rem;
+    font-size: 1.20rem;
     color: rgba(255,255,255,.70);
     position: relative;
     width: 300px;
@@ -149,7 +150,7 @@ body{
     font-weight: 100;
     color: whitesmoke;
     position: relative;;
-    left: 3%;
+    left: 5%;
     
 
   }
