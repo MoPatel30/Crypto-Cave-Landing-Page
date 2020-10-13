@@ -2,7 +2,7 @@ body {
   background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fget.wallhere.com%2Fphoto%2FBitcoin-cryptocurrency-money-currency-1225487.jpg&f=1&nofb=1");
  /* background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);*/
   background-size: 255% 255%;
-  animation: gradient 15s ease infinite;
+  animation: gradient 20s ease infinite;
 }
 /* background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); */
 
@@ -103,7 +103,7 @@ body {
     background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fget.wallhere.com%2Fphoto%2FBitcoin-cryptocurrency-money-currency-1225487.jpg&f=1&nofb=1");
    /* background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);*/
     background-size: 305% 125%;
-    animation: gradient 15s ease infinite;
+    animation: gradient 10s ease infinite;
     background-repeat: repeat;
   }
 
