@@ -1,6 +1,8 @@
-# TechUnity
+# Cryptopia
 
 Website: https://techunity.dev/
+
+(Domain should be changing in the future)
 
 ![Main Page](src/img/landing.JPG)
 
@@ -14,12 +16,12 @@ Egos left at the door. Zero tolerance for negativity. And one goal in mind: buil
 
 Apply now: https://techunity.dev/
 
+(Domain should be changing in the future)
+
 
 ## Creators
 
 Adam Patel
-
-Sam Sandelbach
 
 Mohammed Patel
 

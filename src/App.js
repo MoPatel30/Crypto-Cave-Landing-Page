@@ -7,8 +7,8 @@ export class App extends React.Component{
     return(
      <div>
    
-       <div id="parent">Welcome to TechUnity<div id="border"></div></div>
-       <div id="parent"><a id = "main-statement">Your building journey awaits. </a><div id="border"></div></div>
+       <div id="parent">Welcome to Cryptopia<div id="border"></div></div>
+       <div id="parent"><a id = "main-statement">Quality conversations await!</a><div id="border"></div></div>
        
       
      </div>
