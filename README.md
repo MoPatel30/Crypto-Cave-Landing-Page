@@ -1,4 +1,4 @@
-# Cryptopia
+# Crypto Cave
 
 Website: https://techunity.dev/
 
@@ -10,7 +10,7 @@ Website: https://techunity.dev/
 ## About
 
 
-A growing community for younger builders, engineers, researchers, and investors. Listen to the latest crypto-conversations and always be up to date. See what passionate builders are up to these days. Learn from "Crypto Talks" featuring conversations with industry professionals and experienced individuals. 
+A growing community of younger builders, engineers, researchers, and investors. Listen to the latest crypto-conversations and always be up to date. See what passionate builders are up to these days. Learn from "Crypto Talks" featuring conversations with industry professionals and experienced individuals. 
 
 
 Apply now: https://techunity.dev/
