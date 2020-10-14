@@ -2,6 +2,8 @@
 
 Website: https://techunity.dev/
 
+Follow us: https://twitter.com/Crypto_Cave_
+
 (Domain should be changing in the future)
 
 ![Main Page](src/img/landing.JPG)
