@@ -30,6 +30,7 @@ export class Stuff extends React.Component{
                     <a href="javascript:void(0)" class="closebtn" style = {{ fontSize: "48px"}} onClick={(event) => this.closeNav(event)} >&times;</a>
                     
                     <a href="index.html" className = "tabFont" style = {{left: "-10px"}}>Home</a>
+                    <a href="https://twitter.com/Crypto_Cave_" className = "tabFont" style = {{left: "-10px"}}>Twitter</a>
                 </div>
 
             </div>
